@@ -1,0 +1,4 @@
+# Keep the dictionaries folder to share spellchecking
+.idea/*
+!.idea/dictionaries
+!idea/dictionaries/*
